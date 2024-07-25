@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning .NET Core, C#, React and sometimes Unity ...
 
 - 📫 How to reach me: <a href="mailto:enesbiricikcom@gmail.com">enesbiricikcom@gmail.com</a> ...
-- - 📫 How to reach me: <a href="https://enesbiricik.com/" target="_blank">enesbiricik.com</a> 
+-  📫 How to reach me: <a href="https://enesbiricik.com/" target="_blank">enesbiricik.com</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,12 +2,9 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I'm Enes</h1>
 <h5 align="center">Jr. Software Developer | Computer Engineering Student</h5>
 
-- 🔭 I’m usually working on .NET Core, React, React Native, Javascript, Docker and C#...
-
-- 🌱 I’m currently learning .NET Core, C#, React and sometimes Unity ...
+Building and leading with code. I'm a Co-Founder and Software Engineer at Misket Games. My tech stack includes React Native,React,.NET Core, and a little bit of Unity.
 
 - 📫 How to reach me: <a href="mailto:enesbiricikcom@gmail.com">enesbiricikcom@gmail.com</a> ...
--  📫 How to reach me: <a href="https://enesbiricik.com/" target="_blank">enesbiricik.com</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
